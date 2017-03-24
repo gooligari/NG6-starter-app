@@ -11,3 +11,4 @@ let heroModule = angular.module('hero', [
 .name;
 
 export default heroModule;
+
